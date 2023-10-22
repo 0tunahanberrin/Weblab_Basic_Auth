@@ -1,2 +1,1 @@
-# Weblab_Basic_Auth
- 
+`npm install`to install necessary modules. You can start using it with the command `npm run devStart` and track the details from your terminal screen. 
